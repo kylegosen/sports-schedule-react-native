@@ -1,0 +1,3 @@
+# Resolving to Docker virtual IP, force to use different IP
+set REACT_NATIVE_PACKAGER_HOSTNAME=192.168.1.79
+npm start
