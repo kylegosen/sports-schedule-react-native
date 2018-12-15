@@ -1,6 +1,6 @@
 import * as types from '../constants/action-types';
 
-const API = "http://192.168.1.79:8081/api";
+const API = "http://sportsschedule.kylegosen.com/api";
 
 export function getTeams() {
     return async (dispatch/* getState*/) => {
